@@ -70,7 +70,7 @@
     "@gamestdio/websocket": "^0.3.2",
     "@github/webauthn-json": "^1.0.0",
     "@rails/ujs": "^7.0.2",
-    "array-includes": "^3.1.4",
+    "array-includes": "^3.1.5",
     "arrow-key-navigation": "^1.2.0",
     "autoprefixer": "^9.8.8",
     "axios": "^0.26.0",
